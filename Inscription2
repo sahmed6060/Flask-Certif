@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Formulaire d'Inscription</title>
+    <link rel="stylesheet" href="input.css">
+</head>
+<body class="">
+    <header class="">
+        <main>
+            <nav class="">
+                <ul class="">
+                    <li><a href="Inscription"></a>Inscription</li>
+                </ul>
+            </nav>
+        </main>
+    </header>
+    <p>
+        Vos données ont été annalysés et validés, merci pour votre collaboration.
+    </p>
+</body>
+</html>
